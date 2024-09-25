@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hijeyewasozo.netlify.app/sitemap.xml
